@@ -1,2 +1,21 @@
-# HuangTangWebStack
-基于开源代码制作的个人网页收藏夹
+# webstack
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
